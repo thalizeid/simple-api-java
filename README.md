@@ -1,6 +1,6 @@
 # Simple API Java
 
-Aplicação API 
+Aplicação API - Alterada apenas para fins educativos tentativa 2 
 
 ## Pré-requisitos
 
